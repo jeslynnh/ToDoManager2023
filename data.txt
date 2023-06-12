@@ -1,0 +1,5 @@
+Do Math Homework,09-29-2023,false
+Do CS Project,08-11-2023,false
+Do AP CS Code review,07-01-2023,false
+Create a HOSA poster,06-27-2023,false
+USTA Tennis Tournament,06-29-2023,true
